@@ -1,0 +1,396 @@
+[
+    {
+        "id": 1,
+        "name": "Antidote Jewel 1"
+    },
+    {
+        "id": 18,
+        "name": "Antipara Jewel 1"
+    },
+    {
+        "id": 27,
+        "name": "Pep Jewel 1"
+    },
+    {
+        "id": 39,
+        "name": "Steadfast Jewel 1"
+    },
+    {
+        "id": 28,
+        "name": "Antiblast Jewel 1"
+    },
+    {
+        "id": 21,
+        "name": "Suture Jewel 1"
+    },
+    {
+        "id": 25,
+        "name": "Def Lock Jewel 1"
+    },
+    {
+        "id": 48,
+        "name": "Earplug Jewel 3"
+    },
+    {
+        "id": 47,
+        "name": "Wind Resist Jewel 2"
+    },
+    {
+        "id": 45,
+        "name": "Footing Jewel 2"
+    },
+    {
+        "id": 82,
+        "name": "Attack Jewel 1"
+    },
+    {
+        "id": 43,
+        "name": "Defense Jewel 1"
+    },
+    {
+        "id": 49,
+        "name": "Vitality Jewel 1"
+    },
+    {
+        "id": 41,
+        "name": "Recovery Jewel 1"
+    },
+    {
+        "id": 23,
+        "name": "Fire Res Jewel 1"
+    },
+    {
+        "id": 20,
+        "name": "Water Res Jewel 1"
+    },
+    {
+        "id": 24,
+        "name": "Ice Res Jewel 1"
+    },
+    {
+        "id": 26,
+        "name": "Thunder Res Jewel 1"
+    },
+    {
+        "id": 22,
+        "name": "Dragon Res Jewel 1"
+    },
+    {
+        "id": 50,
+        "name": "Resistor Jewel 1"
+    },
+    {
+        "id": 31,
+        "name": "Blaze Jewel 1"
+    },
+    {
+        "id": 53,
+        "name": "Stream Jewel 1"
+    },
+    {
+        "id": 54,
+        "name": "Frost Jewel 1"
+    },
+    {
+        "id": 55,
+        "name": "Bolt Jewel 1"
+    },
+    {
+        "id": 56,
+        "name": "Dragon Jewel 1"
+    },
+    {
+        "id": 57,
+        "name": "Venom Jewel 1"
+    },
+    {
+        "id": 73,
+        "name": "Paralyzer Jewel 1"
+    },
+    {
+        "id": 74,
+        "name": "Sleep Jewel 1"
+    },
+    {
+        "id": 77,
+        "name": "Blast Jewel 1"
+    },
+    {
+        "id": 58,
+        "name": "Poisoncoat Jewel 3"
+    },
+    {
+        "id": 64,
+        "name": "Paracoat Jewel 3"
+    },
+    {
+        "id": 78,
+        "name": "Sleepcoat Jewel 3"
+    },
+    {
+        "id": 79,
+        "name": "Blastcoat Jewel 3"
+    },
+    {
+        "id": 90,
+        "name": "Release Jewel 3"
+    },
+    {
+        "id": 59,
+        "name": "Expert Jewel 1"
+    },
+    {
+        "id": 87,
+        "name": "Critical Jewel 2"
+    },
+    {
+        "id": 60,
+        "name": "Tenderizer Jewel 2"
+    },
+    {
+        "id": 61,
+        "name": "Destroyer Jewel 2"
+    },
+    {
+        "id": 52,
+        "name": "KO Jewel 2"
+    },
+    {
+        "id": 63,
+        "name": "Drain Jewel 1"
+    },
+    {
+        "id": 10,
+        "name": "Flight Jewel 2"
+    },
+    {
+        "id": 80,
+        "name": "Throttle Jewel 2"
+    },
+    {
+        "id": 83,
+        "name": "Flawless Jewel 2"
+    },
+    {
+        "id": 72,
+        "name": "Potential Jewel 2"
+    },
+    {
+        "id": 19,
+        "name": "Fortitude Jewel 1"
+    },
+    {
+        "id": 51,
+        "name": "Sonorous Jewel 1"
+    },
+    {
+        "id": 84,
+        "name": "Magazine Jewel 2"
+    },
+    {
+        "id": 3,
+        "name": "Heavy Artillery Jewel 1"
+    },
+    {
+        "id": 30,
+        "name": "Physique Jewel 2"
+    },
+    {
+        "id": 4,
+        "name": "Hungerless Jewel 1"
+    },
+    {
+        "id": 33,
+        "name": "Jumping Jewel 2"
+    },
+    {
+        "id": 34,
+        "name": "Sheath Jewel 1"
+    },
+    {
+        "id": 35,
+        "name": "Friendship Jewel 1"
+    },
+    {
+        "id": 36,
+        "name": "Enduring Jewel 1"
+    },
+    {
+        "id": 5,
+        "name": "Satiated Jewel 1"
+    },
+    {
+        "id": 29,
+        "name": "Gobbler Jewel 1"
+    },
+    {
+        "id": 38,
+        "name": "Grinder Jewel 1"
+    },
+    {
+        "id": 40,
+        "name": "Bomber Jewel 1"
+    },
+    {
+        "id": 6,
+        "name": "Protection Jewel 1"
+    },
+    {
+        "id": 7,
+        "name": "Meowster Jewel 1"
+    },
+    {
+        "id": 8,
+        "name": "Botany Jewel 1"
+    },
+    {
+        "id": 2,
+        "name": "Geology Jewel 1"
+    },
+    {
+        "id": 85,
+        "name": "Mighty Jewel 2"
+    },
+    {
+        "id": 44,
+        "name": "Stonethrower Jewel 1"
+    },
+    {
+        "id": 9,
+        "name": "Tip Toe Jewel 1"
+    },
+    {
+        "id": 46,
+        "name": "Brace Jewel 3"
+    },
+    {
+        "id": 11,
+        "name": "Smoke Jewel 1"
+    },
+    {
+        "id": 12,
+        "name": "Mirewalker Jewel 1"
+    },
+    {
+        "id": 13,
+        "name": "Specimen Jewel 1"
+    },
+    {
+        "id": 14,
+        "name": "Miasma Jewel 1"
+    },
+    {
+        "id": 15,
+        "name": "Scent Jewel 1"
+    },
+    {
+        "id": 16,
+        "name": "Intimidator Jewel 1"
+    },
+    {
+        "id": 42,
+        "name": "Slider Jewel 2"
+    },
+    {
+        "id": 37,
+        "name": "Medicine Jewel 1"
+    },
+    {
+        "id": 17,
+        "name": "Crisis Jewel 1"
+    },
+    // {
+    //     "id": ?,
+    //     "name": "Maintenance Jewel 1"
+    // },
+    {
+        "id": 94,
+        "name": "Mighty Bow Jewel 2"
+    },
+    {
+        "id": 62,
+        "name": "Elementless Jewel 2"
+    },
+
+    // bellow are unordered yet
+    {
+        "id": 32,
+        "name": "Evasion Jewel 2"
+    },
+    {
+        "id": 65,
+        "name": "Sharp Jewel 2"
+    },
+    {
+        "id": 66,
+        "name": "Shield Jewel 2"
+    },
+    {
+        "id": 67,
+        "name": "Dragonseal Jewel 3"
+    },
+    {
+        "id": 68,
+        "name": "Trueshot Jewel 1"
+    },
+    {
+        "id": 69,
+        "name": "Enhancer Jewel 2"
+    },
+    {
+        "id": 70,
+        "name": "Forceshot Jewel 3"
+    },
+    {
+        "id": 71,
+        "name": "Furor Jewel 2"
+    },
+    {
+        "id": 75,
+        "name": "Ironwall Jewel 1"
+    },
+    {
+        "id": 76,
+        "name": "Refresh Jewel 2"
+    },
+    {
+        "id": 81,
+        "name": "Challenger Jewel 2"
+    },
+    {
+        "id": 86,
+        "name": "Sprinter Jewel 2"
+    },
+    {
+        "id": 88,
+        "name": "Artillery Jewel 1"
+    },
+    {
+        "id": 89,
+        "name": "Fungiform Jewel 1"
+    },
+    {
+        "id": 91,
+        "name": "Spread Jewel 3"
+    },
+    {
+        "id": 92,
+        "name": "Charger Jewel 2"
+    },
+    {
+        "id": 93,
+        "name": "Handicraft Jewel 3"
+    },
+    {
+        "id": 95,
+        "name": "Mind's Eye Jewel 2"
+    },
+    {
+        "id": 96,
+        "name": "Draw Jewel 2"
+    },
+    {
+        "id": 97,
+        "name": "Pierce Jewel 3"
+    }
+]
