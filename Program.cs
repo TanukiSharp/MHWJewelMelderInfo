@@ -11,8 +11,21 @@ namespace MHWJewelMelderInfo
 {
     class Program
     {
-        static async Task Main(string[] args)
+        static Task Main(string[] args)
         {
+            return new Program().Run(args);
+        }
+
+        private bool optionNoJewelSuffix;
+        private bool optionAddSkillName;
+        private bool optionGameOrder;
+
+        public async Task Run(string[] args)
+        {
+            optionNoJewelSuffix = args.Contains("--no-jewel-suffix");
+            optionAddSkillName = args.Contains("--add-skill-name");
+            optionGameOrder = args.Contains("--no-custom-order") == false;
+
             Version v = Assembly.GetEntryAssembly().GetName().Version;
             Console.WriteLine($"v{v.Major}.{v.Minor}.{v.Build}");
             Console.WriteLine();
@@ -60,12 +73,17 @@ namespace MHWJewelMelderInfo
                 }
             }
 
-            var output = Console.Out;
+            //using (TextWriter output = Console.Out)
+            using (TextWriter output = new StreamWriter(Path.Combine(AppContext.BaseDirectory, "output.txt")))
+                GenerateDecorationOutput(output, decorations, skills);
+        }
 
+        private void GenerateDecorationOutput(TextWriter output, IEnumerable<Decoration> decorations, IEnumerable<Skill> skills)
+        {
             foreach (Decoration decoration in decorations)
             {
                 string name = decoration.Name;
-                if (noJewelSuffix)
+                if (optionNoJewelSuffix)
                 {
                     int index = decoration.Name.IndexOf(" Jewel ");
                     name = name.Substring(0, index);
@@ -80,7 +98,7 @@ namespace MHWJewelMelderInfo
                 }
                 else
                 {
-                    if (addSkillName)
+                    if (optionAddSkillName)
                         name += $" ({associatedSkill.Name})";
 
                     output.WriteLine($"{name}: {associatedSkill.Ranks.Length}");
